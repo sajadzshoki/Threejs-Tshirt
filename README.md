@@ -1,3 +1,3 @@
 # Threejs-Tshirt
 ## live Demo 
-threejs-tshirt-sajad.vercel.app/
+https://threejs-tshirt-sajad.vercel.app/
